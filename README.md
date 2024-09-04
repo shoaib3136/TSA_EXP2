@@ -1,6 +1,6 @@
-# Ex.No: 02 LINEAR AND POLYNOMIAL TREND ESTIMATION
 ### Developed by: Shaik Shoaib Nawaz
 ### Register No: 212222240094
+# Ex.No: 02 LINEAR AND POLYNOMIAL TREND ESTIMATION
 Date:
 ### AIM:
 To Implement Linear and Polynomial Trend Estiamtion Using Python.
